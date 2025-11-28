@@ -1,0 +1,2 @@
+# FY ATM SIMULATION
+This project is a simple Python-based ATM system that helps beginners understand the basics of user input, validation, functions, loops, and dictionary data storage. It simulates real ATM features like account creation, login, balance checking, deposits, withdrawals, and PIN changes. The code is easy to read, beginner-friendly, and can be expanded later with file storage, a GUI, or more banking features.
